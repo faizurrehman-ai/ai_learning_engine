@@ -1,0 +1,15 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+
+# Sensitive environment file
+.env
+
+# SQLite local database
+learning_engine.db
+*.sqlite3
+
+# Editor configs
+.vscode/
